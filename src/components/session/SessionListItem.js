@@ -1,4 +1,5 @@
 import moment from 'moment';
+import React from "react";
 
 export default function SessionListItem({session}) {
   return (
